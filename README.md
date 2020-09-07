@@ -7,17 +7,16 @@ FBSDE_NN_solver
 
 * A Jax implementation of the neural network FBSDE solver for high-dimensional semi-linear PDEs.
 
-## Getting Started
 
-### Dependencies
+## Dependencies
 
 * The implementation is built on Jax and NumPy libraries
 
-### Installing
+## Installing
 
 * Jax installation instructions can be found here: https://github.com/google/jax
 
-### Executing program
+## Executing program
 
 * The code is functional style so each script is self-contained and will run in isolation, for example:
 
