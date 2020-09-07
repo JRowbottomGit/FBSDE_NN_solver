@@ -4,7 +4,7 @@ FBSDE_NN_solver
 
 ## Description
 
-A Jax implementation of the neural network FBSDE solver for high-dimensional semi-linear PDEs.
+* A Jax implementation of the neural network FBSDE solver for high-dimensional semi-linear PDEs.
 
 ## Getting Started
 
